@@ -14,6 +14,7 @@ Read more about Fine-tuning process here: [View](https://developers.google.com/m
 
 ## Contents:
 
-### :rocket: Fine-tune GPT2 (Small) 125 Million parameter model for classifying spam messages. [View Notebook](./fine-tune-gpt2-spam-classifier.ipynb)
+### :rocket: Fine-tune GPT2 (Small) 125 Million parameter model for classifying spam messages 
+[View Notebook](./fine-tune-gpt2-spam-classifier.ipynb)
 
 ![GPT-2 Fine-tune](./media/gpt-2-finetune-spam-classify.jpg)
