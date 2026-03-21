@@ -1,4 +1,4 @@
-# Fine-tuning LLMs from scratch
+# :rocket: Fine-tuning LLMs from scratch
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
@@ -12,7 +12,7 @@ This repo holds a collection of Jupyter notebooks to fine-tune Large Language Mo
 
 Read more about Fine-tuning process here: [View](https://developers.google.com/machine-learning/crash-course/llm/tuning).
 
-## :rocket: Contents:
+## Contents:
 
 - Fine-tune GPT2 (Small) 125 Million parameter model for classifying spam messages: [View Notebook](./fine-tune-gpt2-spam-classifier.ipynb)
 
