@@ -14,8 +14,6 @@ Read more about Fine-tuning process here: [View](https://developers.google.com/m
 
 ## Contents:
 
-- Fine-tune GPT2 (Small) 125 Million parameter model for classifying spam messages: [View Notebook](./fine-tune-gpt2-spam-classifier.ipynb)
-
-- Fine-tune [TinyStories 19M](https://huggingface.co/SauravP97/tiny-stories-19M) model to summarize stories: [View Notebook](./fine-tune-tiny-stories.ipynb)
-
-- Fine-tune [Llama 3.2 1](https://huggingface.co/meta-llama/Llama-3.2-1B) Billion parameter model for summarization task using LoRA. [View Notebook](./fine_tune_llama_1b_summarization.ipynb)
+1. :star2: [Notebook](./fine-tune-gpt2-spam-classifier.ipynb): Fine-tune [GPT2 (Small)](https://huggingface.co/openai-community/gpt2) 125 Million parameter model for classifying spam messages.
+2. :sunflower: [Notebook](./fine-tune-tiny-stories.ipynb): Fine-tune [TinyStories 19M](https://huggingface.co/SauravP97/tiny-stories-19M) model to summarize stories.
+3. :gear: [Notebook](./fine_tune_llama_1b_summarization.ipynb): Fine-tune [Llama 3.2](https://huggingface.co/meta-llama/Llama-3.2-1B) 1 Billion parameter model for summarization task using LoRA.
