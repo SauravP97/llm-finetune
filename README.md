@@ -18,9 +18,9 @@ Read more about Fine-tuning process here: [View](https://developers.google.com/m
 
 - :sunflower: [Notebook](./fine-tune-tiny-stories.ipynb): Fine-tune [TinyStories 19M](https://huggingface.co/SauravP97/tiny-stories-19M) model to summarize stories.
 
-### Fine-tune Meta Llama 3.2 (1 billion parameters) model using LoRA
+### :gear: Fine-tune Meta Llama 3.2 (1 billion parameters) model using LoRA
 
-- :gear: [Notebook](./fine_tune_llama_1b_summarization.ipynb): Fine-tune [Llama 3.2](https://huggingface.co/meta-llama/Llama-3.2-1B) 1 Billion parameter model for summarization task using LoRA.
+[Notebook](./fine_tune_llama_1b_summarization.ipynb): Fine-tune [Llama 3.2](https://huggingface.co/meta-llama/Llama-3.2-1B) 1 Billion parameter model for summarization task using LoRA.
 
 We use [LoRA](https://huggingface.co/docs/diffusers/en/training/lora) technique to fine-tune Meta's [Llama-3.2](https://huggingface.co/meta-llama/Llama-3.2-1B) 1 Billion parameter model for the summarization task. We have used LoRA to avoid training the entire 1 billion parameters of the model. Since the model is pre-trained and has a decent understanding of language, we can attach additional layers and explicitly train them while keeping the rest of the model weights frozen.
 
