@@ -15,7 +15,6 @@ Read more about Fine-tuning process here: [View](https://developers.google.com/m
 ## Contents:
 
 - :star2: [Notebook](./fine-tune-gpt2-spam-classifier.ipynb): Fine-tune [GPT2 (Small)](https://huggingface.co/openai-community/gpt2) 125 Million parameter model for classifying spam messages.
-
 - :sunflower: [Notebook](./fine-tune-tiny-stories.ipynb): Fine-tune [TinyStories 19M](https://huggingface.co/SauravP97/tiny-stories-19M) model to summarize stories.
 
 ---
@@ -38,7 +37,7 @@ The LoRA layer looks somewhat like this.
 
 ![LoRA layers](./media/loraa-llm.jpg)
 
-```ptyhon
+```python
 class LoRALayer(torch.nn.Module):
   def __init__(self, in_dim, out_dim, rank, alpha):
     super().__init__()
