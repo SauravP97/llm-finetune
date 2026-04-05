@@ -18,6 +18,8 @@ Read more about Fine-tuning process here: [View](https://developers.google.com/m
 
 - :sunflower: [Notebook](./fine-tune-tiny-stories.ipynb): Fine-tune [TinyStories 19M](https://huggingface.co/SauravP97/tiny-stories-19M) model to summarize stories.
 
+---
+
 ### :gear: Fine-tune Meta Llama 3.2 (1 billion parameters) model using LoRA
 
 [Notebook](./fine_tune_llama_1b_summarization.ipynb): Fine-tune [Llama 3.2](https://huggingface.co/meta-llama/Llama-3.2-1B) 1 Billion parameter model for summarization task using LoRA.
