@@ -17,7 +17,7 @@ Read more about Fine-tuning process here: [View](https://developers.google.com/m
 - :star2: [Notebook](./fine-tune-gpt2-spam-classifier.ipynb): Fine-tune [GPT2 (Small)](https://huggingface.co/openai-community/gpt2) 125 Million parameter model for classifying spam messages.
 - :sunflower: [Notebook](./fine-tune-tiny-stories.ipynb): Fine-tune [TinyStories 19M](https://huggingface.co/SauravP97/tiny-stories-19M) model to summarize stories.
 - :rocket: [Notebook](./fine_tune_llama_1b_summarization.ipynb): Fine-tune Meta [Llama 3.2](https://huggingface.co/meta-llama/Llama-3.2-1B) 1 billion parameter model on text summarization task.
-- :sunshine: [Notebook](./gemma4_fine_tune.ipynb): Fine-tune Google's [Gemma 4](https://huggingface.co/google/gemma-4-E2B) 2 billion parameter model on QnA task.
+- :panda_face: [Notebook](./gemma4_fine_tune.ipynb): Fine-tune Google's [Gemma 4](https://huggingface.co/google/gemma-4-E2B) 2 billion parameter model on QnA task.
 
 ---
 
