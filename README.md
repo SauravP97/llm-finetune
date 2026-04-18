@@ -56,4 +56,8 @@ class LoRALayer(torch.nn.Module):
 
 I have clubbed the above shown LoRA Layer with all the Linear Layers present in the Llama model. The model architecture before and after the LoRA layer integration is shown below.
 
-![LoRA before and after](./media/lora-llm-before-after.png)
+![LoRA before and after](./media/lora-llama.png)
+
+### :partly_sunny: Saving the Fine-tuned model
+
+![save-fine-tuned](./media/saving-lora-layers.png)
