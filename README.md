@@ -21,6 +21,15 @@ Read more about Fine-tuning process here: [View](https://developers.google.com/m
 
 ---
 
+## Video Playlist - LLM Fine-tune :arrow_forward:
+
+Checkout my [YouTube](https://www.youtube.com/@saurav_prateek_) playlist on Fine-tuning LLMs where I have covered the notebooks present in this repo in detail.
+
+<a href="https://www.youtube.com/playlist?list=PL3tZ_eA1QJsypKE4HUc5KdZUfa7OhHJan"><img src="./media/playlist-banner.png" width="480px"></a>
+
+
+---
+
 ### :gear: Fine-tune Meta Llama 3.2 (1 billion parameters) model using LoRA
 
 [Notebook](./fine_tune_llama_1b_summarization.ipynb): Fine-tune [Llama 3.2](https://huggingface.co/meta-llama/Llama-3.2-1B) 1 Billion parameter model for summarization task using LoRA.
