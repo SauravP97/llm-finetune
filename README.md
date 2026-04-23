@@ -19,9 +19,7 @@ Read more about Fine-tuning process here: [View](https://developers.google.com/m
 - :rocket: [Notebook](./fine_tune_llama_1b_summarization.ipynb): Fine-tune Meta [Llama 3.2](https://huggingface.co/meta-llama/Llama-3.2-1B) 1 billion parameter model on text summarization task.
 - :panda_face: [Notebook](./gemma4_fine_tune.ipynb): Fine-tune Google's [Gemma 4](https://huggingface.co/google/gemma-4-E2B) 2 billion parameter model on QnA task.
 
----
-
-## Video Playlist - LLM Fine-tune :arrow_forward:
+### Video Playlist - LLM Fine-tune :arrow_forward:
 
 Checkout my [YouTube](https://www.youtube.com/@saurav_prateek_) playlist on Fine-tuning LLMs where I have covered the notebooks present in this repo in detail.
 
